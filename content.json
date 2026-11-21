@@ -1,0 +1,178 @@
+{
+  "site": {
+    "name": "PINOCCHIO",
+    "wordmark": "pino",
+    "accent": "#5EC4CD",
+    "logo": "assets/logo.jpg",
+    "footerLeft": "PINOCCHIO UNIST",
+    "joinButton": "가입 문의"
+  },
+
+  "nav": {
+    "about": "소개",
+    "activities": "활동",
+    "teamContact": "조직도 · 연락처",
+    "team": "조직도",
+    "contact": "연락처"
+  },
+
+  "contact": {
+    "email": "pinocchio.unist@gmail.com",
+    "instagram": "@pinocchio_unist",
+    "instagramUrl": "https://instagram.com/pinocchio_unist",
+    "kakao": "모집기간 중 오픈채팅 링크 공유 예정",
+    "room": "울산광역시 울주군 언양읍 유니스트길 50 203-310"
+  },
+
+  "home": {
+    "titleLines": ["함께 만드는 동아리,", "PINOCCHIO입니다."],
+    "titleHighlight": "PINOCCHIO",
+    "intro": "PINOCCHIO는 UNIST 로봇동아리입니다. 기계, 전자, 소프트웨어를 함께 다루며 직접 로봇을 제작하고 싶다면 누구든 환영합니다.",
+    "buttons": {
+      "primary": "동아리 소개",
+      "secondary": "활동 보기"
+    },
+    "facts": [
+      { "label": "설립", "value": "2010년" },
+      { "label": "부원", "value": "69명" },
+      { "label": "동아리방", "value": "UNIST 학생회관 310호" }
+    ],
+    "whatWeDo": {
+      "title": "하는 일",
+      "linkText": "전체 활동 보기",
+      "items": [
+        {
+          "title": "정기 세미나",
+          "desc": "분야별 기초부터 심화까지 부원이 직접 강의합니다.",
+          "partners": []
+        },
+        {
+          "title": "팀 프로젝트",
+          "desc": "3~5인 팀으로 원하는 주제의 프로젝트를 진행합니다.",
+          "partners": []
+        },
+        {
+          "title": "로봇 경진대회",
+          "desc": "교내외 로봇 대회에 팀을 만들어 출전합니다.",
+          "partners": []
+        },
+        {
+          "title": "외부 협력",
+          "desc": "교내/외 단체와 협업 프로젝트를 진행합니다.",
+          "partnersLabel": "협력 단체",
+          "partners": []
+        }
+      ]
+    },
+    "projects": {
+      "title": "프로젝트",
+      "linkText": "전체 활동 보기",
+      "items": [
+        { "type": "프로젝트", "year": "[YYYY]", "title": "[프로젝트명]", "image": "" },
+        { "type": "대회", "year": "[YYYY]", "title": "[대회명]", "image": "" },
+        { "type": "전시", "year": "[YYYY]", "title": "[전시명]", "image": "" }
+      ]
+    },
+    "recruit": {
+      "title": "신입 부원 모집",
+      "rows": [
+        { "label": "모집 기간", "value": "[기간]" },
+        { "label": "지원 자격", "value": "UNIST 학부생 및 대학원생, 전공 / 학년 무관" }
+      ],
+      "button": "문의하기"
+    }
+  },
+
+  "about": {
+    "label": "01 소개",
+    "title": "PINOCCHIO 소개",
+    "intro": "PINOCCHIO는 로봇을 직접 설계하고 제작하는 UNIST 로봇동아리입니다. 기계, 전자, 소프트웨어를 배우고, 실제로 움직이는 로봇을 완성합니다.",
+    "overviewTitle": "개요",
+    "overview": [
+      { "label": "이름", "value": "PINOCCHIO" },
+      { "label": "소속", "value": "UNIST 정규동아리" },
+      { "label": "설립", "value": "2010년" },
+      { "label": "지도교수", "value": "강상훈 (UNIST 기계공학과)" },
+      { "label": "회장", "value": "박종범" },
+      { "label": "동아리방", "value": "UNIST 학생회관 310호" }
+    ],
+    "fieldsTitle": "활동 분야",
+    "fields": [
+      {
+        "title": "기계 설계",
+        "tags": ["CAD", "3D Print"],
+        "items": ["프레임 · 관절 설계", "구동부 설계", "3D 프린팅 · 가공"]
+      },
+      {
+        "title": "전자 · 회로",
+        "tags": ["PCB", "Sensor"],
+        "items": ["전원 설계", "센서 · 모터 드라이버", "PCB 설계"]
+      },
+      {
+        "title": "임베디드 · 제어",
+        "tags": ["MCU", "PID"],
+        "items": ["마이크로컨트롤러 펌웨어", "모터 제어", "센서 퓨전"]
+      },
+      {
+        "title": "소프트웨어 · AI",
+        "tags": ["AI", "Computer vision"],
+        "items": ["AI 기반 제어", "컴퓨터 비전", "UI"]
+      }
+    ],
+    "scheduleTitle": "연간 일정",
+    "schedule": [
+      { "term": "1학기", "title": "신규 부원 모집 및 기초 교육" },
+      { "term": "여름방학", "title": "팀 프로젝트" },
+      { "term": "2학기", "title": "심화 교육 및 프로젝트형 교육" },
+      { "term": "겨울방학", "title": "팀 프로젝트 / 인수인계" }
+    ]
+  },
+
+  "activities": {
+    "label": "02 활동",
+    "title": "활동",
+    "intro": "교내 활동과 대외활동을 소개합니다.",
+    "tabs": { "all": "전체", "in": "교내 활동", "out": "대외활동" },
+    "items": [
+      { "scope": "교내", "when": "학기 중 매주", "title": "정기 세미나", "desc": "분야별 강의와 기술 스터디", "image": "" },
+      { "scope": "교내", "when": "1학기", "title": "신입 부원 교육", "desc": "납땜, CAD, 마이크로컨트롤러 기초 실습", "image": "" },
+      { "scope": "교내", "when": "학기 단위", "title": "팀 프로젝트", "desc": "팀별로 로봇 한 대를 기획부터 시연까지 완성", "image": "" },
+      { "scope": "교내", "when": "학기 말", "title": "성과 전시회", "desc": "완성한 로봇 시연", "image": "" },
+      { "scope": "교내", "when": "방학", "title": "메이커톤", "desc": "제한 시간 안에 주제 로봇 제작", "image": "" },
+      { "scope": "대외", "when": "[일정]", "title": "로봇 경진대회", "desc": "[대회명] 출전", "image": "" },
+      { "scope": "대외", "when": "[일정]", "title": "타 대학 교류", "desc": "[학교 · 동아리명]과 세미나 및 공동 프로젝트", "image": "" },
+      { "scope": "대외", "when": "[일정]", "title": "기관 협력", "desc": "[기관명]과 협력 프로젝트", "image": "" },
+      { "scope": "대외", "when": "[일정]", "title": "과학 체험 부스", "desc": "지역 학생 대상 로봇 체험 운영", "image": "" }
+    ],
+    "recordsTitle": "대외활동 기록",
+    "recordsColumns": ["연도", "구분", "활동명", "참여 팀", "결과"],
+    "records": [
+      { "year": "[YYYY]", "type": "대회", "name": "[대회명]", "team": "[팀명]", "result": "[결과]" },
+      { "year": "[YYYY]", "type": "대회", "name": "[대회명]", "team": "[팀명]", "result": "[결과]" },
+      { "year": "[YYYY]", "type": "교류", "name": "[행사명]", "team": "[학교 · 동아리]", "result": "—" },
+      { "year": "[YYYY]", "type": "행사", "name": "[행사명]", "team": "[주최 기관]", "result": "—" }
+    ]
+  },
+
+  "team": {
+    "label": "03 조직도 · 연락처",
+    "title": "조직도",
+    "intro": "2026년 운영진",
+    "advisor": { "role": "지도교수", "name": "강상훈" },
+    "president": { "role": "회장", "name": "박종범", "email": "pjb777@unist.ac.kr" },
+    "vicePresident": { "role": "부회장", "name": "성현재", "email": "sshhjj0316@unist.ac.kr" },
+    "leaderLabel": "팀장",
+    "departments": [
+      { "name": "서기부", "desc": "회의록 · 활동 기록", "leader": "허정운" },
+      { "name": "총무부", "desc": "회비 · 예산 관리", "leader": "우현민" },
+      { "name": "교육부", "desc": "세미나 · 신입 부원 교육", "leader": "이시형" },
+      { "name": "홍보부", "desc": "SNS · 모집 홍보", "leader": "장진영" },
+      { "name": "관리부", "desc": "동아리방 · 장비 관리", "leader": "홍승천" },
+      { "name": "기획부", "desc": "행사 · 대회 · 프로젝트 기획", "leader": "양수정" }
+    ],
+    "contactTitle": "연락처",
+    "formTitle": "문의하기",
+    "formTypes": ["가입", "협업 · 공동 프로젝트", "대회 · 행사 제안", "기타"],
+    "formNote": "보내기를 누르면 메일 앱이 열리고, 작성한 내용이 동아리 메일 주소로 채워집니다."
+  }
+}
