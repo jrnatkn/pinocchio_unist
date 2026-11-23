@@ -26,7 +26,7 @@
   };
   var isOut = function (scope) {
     var s = String(scope || '').trim().toLowerCase();
-    return s === '대외' || s === 'out' || s === 'external';
+    return s === '외부' || s === 'out' || s === 'external';
   };
 
   // ---------- shared parts ----------
