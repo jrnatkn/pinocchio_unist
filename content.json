@@ -148,13 +148,13 @@
       { "scope": "외부", "when": "2025", "title": "UNIST STEM camp", "desc": "울산시 고등학생 대상 로봇 체험 캠프 운영", "image": "" },
       { "scope": "외부", "when": "2025", "title": "울산공업축제", "desc": "울산공업축제 로봇 제작 참여", "image": "" },
       { "scope": "외부", "when": "2025", "title": "IST-TECH IT 아레나", "desc": "과학기술특성화대학 교류회 참여", "image": "" },
-      { "scope": "외부", "when": "2025", "title": "울주군 Dream campus", "desc": "울주군 중학생 대상 드론 기술 멘토링 진행", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "울주군 Dream campus", "desc": "울주군 중학생 대상 드론 기술 멘토링 진행", "image": "" }
     ],
     "recordsTitle": "대외활동 결과 기록",
     "recordsColumns": ["연도", "구분", "활동명", "참여 팀", "결과"],
     "records": [
       { "year": "2026", "type": "대회", "name": "IST-TECH IT ARENA 자율주행 자동차 대회", "team": "PINOCCHIO", "result": "3위" },
-      { "year": "2025", "type": "대회", "name": "", "team": "써드아이", "result": "" },
+      { "year": "2024", "type": "대회", "name": "한국지능로봇 경진대회", "team": "써드아이", "result": "한국로봇융합연구원장상/로봇기업상" }
     ]
   },
 
