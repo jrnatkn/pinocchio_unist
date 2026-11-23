@@ -68,15 +68,15 @@
       "title": "프로젝트",
       "linkText": "전체 활동 보기",
       "items": [
-        { "type": "프로젝트", "year": "[YYYY]", "title": "[프로젝트명]", "image": "" },
-        { "type": "대회", "year": "[YYYY]", "title": "[대회명]", "image": "" },
-        { "type": "전시", "year": "[YYYY]", "title": "[전시명]", "image": "" }
+        { "type": "프로젝트", "year": "2026", "title": "자율주행 로봇", "image": "" },
+        { "type": "대회", "year": "2026", "title": "IST-TECH IT ARENA 자율주행 대회", "image": "" },
+        { "type": "전시", "year": "2026", "title": "IST-TECH IT ARENA 로보틱스 교류회", "image": "" }
       ]
     },
     "recruit": {
       "title": "신입 부원 모집",
       "rows": [
-        { "label": "모집 기간", "value": "[기간]" },
+        { "label": "모집 기간", "value": "2027.03.00-2027.03.00(TBA)" },
         { "label": "지원 자격", "value": "UNIST 학부생 및 대학원생, 전공 / 학년 무관" }
       ],
       "button": "문의하기"
@@ -132,25 +132,29 @@
     "label": "02 활동",
     "title": "활동",
     "intro": "교내 활동과 대외활동을 소개합니다.",
-    "tabs": { "all": "전체", "in": "교내 활동", "out": "대외활동" },
+    "tabs": { "all": "전체", "in": "동아리 내부 활동", "out": "외부활동" },
     "items": [
-      { "scope": "교내", "when": "학기 중 매주", "title": "정기 세미나", "desc": "분야별 강의와 기술 스터디", "image": "" },
-      { "scope": "교내", "when": "1학기", "title": "신입 부원 교육", "desc": "납땜, CAD, 마이크로컨트롤러 기초 실습", "image": "" },
-      { "scope": "교내", "when": "학기 단위", "title": "팀 프로젝트", "desc": "팀별로 로봇 한 대를 기획부터 시연까지 완성", "image": "" },
-      { "scope": "교내", "when": "학기 말", "title": "성과 전시회", "desc": "완성한 로봇 시연", "image": "" },
-      { "scope": "교내", "when": "방학", "title": "메이커톤", "desc": "제한 시간 안에 주제 로봇 제작", "image": "" },
-      { "scope": "대외", "when": "[일정]", "title": "로봇 경진대회", "desc": "[대회명] 출전", "image": "" },
-      { "scope": "대외", "when": "[일정]", "title": "타 대학 교류", "desc": "[학교 · 동아리명]과 세미나 및 공동 프로젝트", "image": "" },
-      { "scope": "대외", "when": "[일정]", "title": "기관 협력", "desc": "[기관명]과 협력 프로젝트", "image": "" },
-      { "scope": "대외", "when": "[일정]", "title": "과학 체험 부스", "desc": "지역 학생 대상 로봇 체험 운영", "image": "" }
+      { "scope": "내부", "when": "2026 학기 중 매주", "title": "정기 세미나", "desc": "분야별 강의와 기술 스터디", "image": "" },
+      { "scope": "내부", "when": "2026 1학기", "title": "신입 부원 교육", "desc": "납땜, CAD, 마이크로컨트롤러 기초 실습", "image": "" },
+      { "scope": "내부", "when": "2026 여름방학", "title": "팀 프로젝트", "desc": "팀별 자유주제 로봇 제작", "image": "" },
+      { "scope": "내부", "when": "2026 2학기", "title": "심화 교육", "desc": "3D 프린터, 기구 설계 심화, 마이크로컨트롤러 및 제어 심화 실습", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "UNIST MEstival", "desc": "UNIST 기계공학과 행사 MEstival 부스 운영", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "UNIST 2026 봄축제", "desc": "UNIST 2026 봄축제 로봇 체험 부스 운영", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "현대백화점 팝업", "desc": "울산 현대백화점 AI ULSAN 팝업 전시 참여", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "IST-TECH IT 아레나", "desc": "과학기술특성화대학 교류회 참여", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "무룡고 멘토링", "desc": "무룡고 방문 및 로봇공학/진로 관련 멘토링 진행", "image": "" },
+      { "scope": "외부", "when": "2026", "title": "울주군 Dream campus", "desc": "울주군 중학생 대상 드론 기술 멘토링 진행", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "UNIST 2025 봄축제", "desc": "UNIST 2025 봄축제 로봇 체험 부스 운영", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "UNIST STEM camp", "desc": "울산시 고등학생 대상 로봇 체험 캠프 운영", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "울산공업축제", "desc": "울산공업축제 로봇 제작 참여", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "IST-TECH IT 아레나", "desc": "과학기술특성화대학 교류회 참여", "image": "" },
+      { "scope": "외부", "when": "2025", "title": "울주군 Dream campus", "desc": "울주군 중학생 대상 드론 기술 멘토링 진행", "image": "" },
     ],
-    "recordsTitle": "대외활동 기록",
+    "recordsTitle": "대외활동 결과 기록",
     "recordsColumns": ["연도", "구분", "활동명", "참여 팀", "결과"],
     "records": [
-      { "year": "[YYYY]", "type": "대회", "name": "[대회명]", "team": "[팀명]", "result": "[결과]" },
-      { "year": "[YYYY]", "type": "대회", "name": "[대회명]", "team": "[팀명]", "result": "[결과]" },
-      { "year": "[YYYY]", "type": "교류", "name": "[행사명]", "team": "[학교 · 동아리]", "result": "—" },
-      { "year": "[YYYY]", "type": "행사", "name": "[행사명]", "team": "[주최 기관]", "result": "—" }
+      { "year": "2026", "type": "대회", "name": "IST-TECH IT ARENA 자율주행 자동차 대회", "team": "PINOCCHIO", "result": "3위" },
+      { "year": "2025", "type": "대회", "name": "", "team": "써드아이", "result": "" },
     ]
   },
 
@@ -172,7 +176,7 @@
     ],
     "contactTitle": "연락처",
     "formTitle": "문의하기",
-    "formTypes": ["가입", "협업 · 공동 프로젝트", "대회 · 행사 제안", "기타"],
+    "formTypes": ["가입", "협업 · 공동 프로젝트", "대회 · 행사 제안", "후원", "기타"],
     "formNote": "보내기를 누르면 메일 앱이 실행됩니다."
   }
 }
